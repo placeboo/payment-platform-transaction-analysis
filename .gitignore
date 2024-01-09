@@ -1,0 +1,6 @@
+data/
+figure/
+*.log
+*.db
+*.json
+
